@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 我是dev 分支，我修改了代码
+我是另一个分支
